@@ -1,4 +1,4 @@
-# This script is for mapping through dict. the regions & it's capital cities
+# This script is for maping through dict. the regions & it's capital cities
 
 chile = {
     "1": "Region de Tarapaca",
